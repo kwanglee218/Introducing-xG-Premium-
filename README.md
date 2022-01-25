@@ -12,7 +12,7 @@ beneficial in determining how to score more goals, but it’s also important in 
 The datasets used were from publicly avaiable data provided by StatsBomb <br>
 
 ### Implications & Insights
-From initial pre-processing of data courtesy of Sae Jin Jang's code (@saejin123), we feature engineered two more variables - distance to goal as well as shot angle from cosine rule.
+From initial pre-processing of data courtesy of **Sae Jin Jang's code (@saejin123)**, we feature engineered two more variables - distance to goal as well as shot angle from cosine rule.
 
 Next, undersampling was done to tally up the counts of goals and no goals (since most shots do not result in a goal); Finally,
 The following models were utilised in training and their metrics compared:
