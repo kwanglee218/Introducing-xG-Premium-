@@ -39,4 +39,4 @@ Statsbomb/open-data: Free football data from StatsBomb. GitHub. Retrieved Novemb
 ### Collaborators
 Sae Jin Jang (@saejin123)<br>
 Hpone Myat Khine (@HponeMK) <br>
-Kwanghun Lee (Jason) <br>
+Kwanghun Lee (Jason) (@kwanglee218) <br>
