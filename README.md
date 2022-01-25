@@ -33,8 +33,8 @@ Top 3 performing models were:
 For Business use, we recommended logistic regression. The (slight) drop in accuracy & AUC score is offset by its greater interpretability vs Random Forests and not being as computationally expensive as SVM
 
 ### Credits 
-Sae Jin's xG-Model-World-Cup-2018 <br>
-Statsbomb. (n.d.). Statsbomb/open-data: Free football data from StatsBomb. GitHub. Retrieved November 12, 2021, from https://github.com/statsbomb/open-data.
+Sae Jin's xG-Model-World-Cup-2018 (https://github.com/saejin123/xG-Model-World-Cup-2018) <br>
+Statsbomb/open-data: Free football data from StatsBomb. GitHub. Retrieved November 12, 2021, from https://github.com/statsbomb/open-data.
 
 ### Collaborators
 Sae Jin Jang (@saejin123)<br>
