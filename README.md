@@ -1,10 +1,8 @@
 # Introducing-xG-Premium- 
 DBA5106 Term Project. Improving on publicly available non-Penalty Expected Goals (npxG) data. But for brevity, xG is used throughout
 
-
-
 #### Techniques Employed
-<br> EDA, Feature Engineering, Imbalanced Dataset, Hyper-parameter tuning (GridSearc, RandomSearch), Running & Evaluating Models (ROC-AUC) and Comparing metrics <br>
+EDA, Feature Engineering, Imbalanced Dataset, Hyper-parameter tuning (GridSearc, RandomSearch), Running & Evaluating Models (ROC-AUC) and Comparing metrics <br>
 
 ### Context
 Football teams have been trying to find ways to score more goals in each game to win and to achieve better results in each season of their respective leagues. Traditionally, football teams have used past goals, shots, and shots on target to evaluate the goal-scoring ability of a player. However, recent trends show that more teams are using data analytics to find scientific approaches to evaluate a threatening player more objectively. Expected Goals (xG) measures the quality of goal-scoring chances by calculating the probability of scoring a goal from a given shot. This metric is not only
