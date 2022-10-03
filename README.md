@@ -1,4 +1,4 @@
-# Introducing-xG-Premium- 
+# Football Analytics 
 DBA5106 Term Project. Improving on publicly available non-Penalty Expected Goals (npxG) data. But for brevity, xG is used throughout
 
 #### Techniques Employed
